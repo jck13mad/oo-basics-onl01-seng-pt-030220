@@ -41,8 +41,8 @@ def condition
   @condition
 end
 
-#def initialize(cobble)
-  
-#end
+def cobble
+  puts ""
+end
 
 end
